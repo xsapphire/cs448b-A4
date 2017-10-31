@@ -1,16 +1,12 @@
 # cs448b-A4
 Also used for cme151a
 # The complete dataset is billionaireData.xlsx
-For cme151A I cropped some columns that I need to use, stored in billionaireDataCropped.csv (csv is subset of xlsx)
-# worldmap.js is used to draw a world map on the webpage. I already done that.
-I need to manipulate some "id" to match countrycode from csv file.
+For cme151A I cropped some columns that I need to use, stored in billionaireDataCropped.csv (csv is subset of xlsx). worldmap.js is used to draw a world map on the webpage.
 # What I have done so far: 
   - Drew a map
   - Sorted csv data by country (if you look at console)
-# What I absolutely want (easy) to do in the next few hours
-  - color the country area with color that refelects the number of billionaires
-  - When hover over it it shows the exact number
-  
+  - Color the country according to the number of billionaires in that country
+  - Show country name and exact number of billionaires when hovering over a country
 # What we are going to do for cme151a
   - On clicking a country, show a histogram of billionaires in this country, x-axis ordered by ranking, y axis ordered by money. (Or maybe it's a bad idea)
   - Offer a button to sort the histogram bars by age. 
