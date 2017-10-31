@@ -12,7 +12,8 @@ I need to manipulate some "id" to match countrycode from csv file.
   - When hover over it it shows the exact number
   
 # What we are going to do for cme151a
-  - On clicking a country, show a histogram of billionaires in this country, x-axis ordered by ranking, y axis ordered by money.
+  - On clicking a country, show a histogram of billionaires in this country, x-axis ordered by ranking, y axis ordered by money. (Or maybe it's a bad idea)
   - Offer a button to sort the histogram bars by age. 
+  - Or on clicking a country, show piechart of the industry these billionairs involved?
   - Add a simple filter: i.e. number of billionairs in each country whose relationship to the company is "founder". We can additionally add circles 
     on the map (by size) to indicate, or change the color of the state.
