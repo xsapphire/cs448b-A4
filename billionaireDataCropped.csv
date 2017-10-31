@@ -140,7 +140,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 2014,Anas Sefrioui,1356,MAR,1.3,self-made finance,male,56,Real Estate,new,founder
 2014,Anatoly Lomakin,1210,RUS,1.4,privatized and resources,male,61,Consumer,privatization,owner
 2014,Anatoly Sedykh,1465,RUS,1.1,privatized and resources,male,49,Non-consumer industrial,new,founder
-2014,Anders Holch Povlsen,267,DEN,5.3,inherited,male,41,"Retail, Restaurant",new,relation
+2014,Anders Holch Povlsen,267,DNK,5.3,inherited,male,41,"Retail, Restaurant",new,relation
 2014,Andre Esteves,520,BRA,3.1,self-made finance,male,45,Money Management,new,founder
 2001,Andre Kudelski,292,CHE,1.7,inherited,male,,Technology-Computer,new,relation
 2014,Andrea Della Valle,1092,ITA,1.6,executive,male,48,Consumer,new,relation
@@ -260,7 +260,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 1996,Bennett Dorrance,228,USA,1.8,inherited,male,63,Consumer,aquired,relation
 2001,Bennett Dorrance,336,USA,1.5,inherited,male,58,Consumer,aquired,relation
 2014,Bennett Dorrance,869,USA,2,inherited,male,68,Consumer,aquired,relation
-2014,Bent Jensen,1565,DEN,1,inherited,male,62,Technology-Computer,new,relation
+2014,Bent Jensen,1565,DNK,1,inherited,male,62,Technology-Computer,new,relation
 2014,Benu Gopal Bangur,1143,IND,1.6,inherited,male,82,Constrution,new,relation
 2014,Beny Steinmetz,367,ISR,4.1,inherited,male,57,Mining and metals,new,relation
 2014,Bergit Douglas,1078,DEU,1.7,inherited,female,67,Consumer,new,relation
@@ -875,7 +875,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 2014,Han Chang-Woo,466,JPN,3.4,founder non-finance,male,83,"Retail, Restaurant",new,"Chairman, CEO",,,,,,,,,,,,
 1996,Haniel family,12,DEU,8.1,inherited,,0,Diversified financial,new,,,,,,,,,,,,,
 2014,Hank & Doug Meijer,153,USA,8.5,inherited,male,,"Retail, Restaurant",new,relation
-2014,Hanni Toosbuy Kasprzak,642,DEN,2.7,inherited,female,56,Consumer,new,relation
+2014,Hanni Toosbuy Kasprzak,642,DNK,2.7,inherited,female,56,Consumer,new,relation
 1996,Hans and Gad Rausing,10,SWE,9,inherited,male,0,Consumer,new,relation
 2014,Hans Melchers,931,NLD,1.9,executive,male,75,Non-consumer industrial,new,relation
 2014,Hans Peter Wild,520,DEU,3.1,inherited,male,72,Consumer,new,relation
@@ -1332,7 +1332,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 2014,Kirsten Rausing,278,SWE,5.1,inherited,female,61,Consumer,new,relation
 1996,Kjeld Kirk Kristiansen,158,DNK,2.3,inherited,male,48,Consumer,new,relation
 2001,Kjeld Kirk Kristiansen,251,DNK,1.9,inherited,male,53,Consumer,new,relation
-2014,Kjeld Kirk Kristiansen,119,DEN,10.2,inherited,male,66,Consumer,new,relation
+2014,Kjeld Kirk Kristiansen,119,DNK,10.2,inherited,male,66,Consumer,new,relation
 2014,Kjell Inge Rokke,687,NOR,2.5,executive,male,55,Other,aquired,owner
 1996,Klaus Jacobs,286,CHE,1.4,inherited,male,0,Consumer,new,relation
 2001,Klaus Jacobs,167,CHE,2.8,inherited,male,,Consumer,new,relation
@@ -1379,7 +1379,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 2014,Larry Ellison,5,USA,48,founder non-finance,male,69,Technology-Computer, new,founder
 2014,Larry Page,17,USA,32.3,founder non-finance,male,40,Technology-Computer, new,founder
 2014,Larry Robbins,1210,USA,1.4,self-made finance,male,44,Hedge funds,new,founder
-2014,Lars Larsen,375,DEN,4,founder non-finance,male,65,"Retail, Restaurant",new,founder and CEO
+2014,Lars Larsen,375,DNK,4,founder non-finance,male,65,"Retail, Restaurant",new,founder and CEO
 1996,Laurance Rockefeller,413,USA,1,inherited,male,85,Mining and metals,new,relation
 2001,Laurance Rockefeller,336,USA,1.5,inherited,male,90,Mining and metals,new,relation
 2014,Laurence Graff,305,GBR,4.8,founder non-finance,male,75,Consumer,new,founder
@@ -1746,7 +1746,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 2014,Nancy Walton Laurie,367,USA,4.1,inherited,female,62,"Retail, Restaurant", new,relation
 2014,Nandan Nilekani,1210,IND,1.4,founder non-finance,male,58,Technology-Computer,new,founder
 2014,Naruatsu Baba,796,JPN,2.2,founder non-finance,male,36,Technology-Computer,new,founder
-2014,Nassef Sawiris,205,FIN,6.7,inherited,male,53,Constrution,new,relation
+2014,Nassef Sawiris,205,EGY,6.7,inherited,male,53,Constrution,new,relation
 2001,Nasser Al-Kharafi,50,KWT,6,inherited,male,57,Constrution,new,relation
 2014,Nathan Kirsh,408,SWZ,3.7,executive,male,82,"Retail, Restaurant",aquired,investor
 1996,Nathaniel Rothschild,387,GBR,1,inherited,male,0,Money Management,new,relation
@@ -1767,7 +1767,7 @@ year,name,rank,countrycode,networthusbillion,typeofwealth,gender,age,industry,co
 2014,Nicolas Berggruen,869,USA,2,self-made finance,male,52,Diversified financial,new,founder
 2001,Nicolas Hayek,116,CHE,3.5,founder non-finance,male,72,Consumer,merger,founder
 2014,Nicolas Puech,869,FRA,2,inherited,male,71,Consumer,new,relation
-2014,Niels Peter Louis-Hansen,408,DEN,3.7,inherited,male,66,Technology-Medical,new,relation
+2014,Niels Peter Louis-Hansen,408,DNK,3.7,inherited,male,66,Technology-Medical,new,relation
 2014,Nikita Mishin,1372,RUS,1.2,self-made finance,male,42,Real Estate,new,founder
 2014,Niklas Herlin,1465,FIN,1.1,inherited,male,50,Non-consumer industrial,aquired,relation
 2014,Nikolai Maximov,1372,RUS,1.2,self-made finance,male,56,Diversified financial,new,founder
